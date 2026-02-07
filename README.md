@@ -73,7 +73,7 @@ Quantity Sold
 
 Total Orders
 
-# SQL Skills Demonstrated
+# SQL Skills 
 
 Aggregate functions (SUM, COUNT, AVG)
 
